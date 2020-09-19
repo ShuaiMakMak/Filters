@@ -1,3 +1,4 @@
 # > CatchPlay
 USER-AGENT,CatchPlay*,CatchPlay
 DOMAIN-SUFFIX,catchplay.com,CatchPlay
+DOMAIN-SUFFIX,hp2-api.catchplay.com,CatchPlay
