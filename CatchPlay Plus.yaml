@@ -1,6 +1,7 @@
 payload:  
   # > CatchPlay Plus
   # - User-Agent,CatchPlay*
+  - DOMAIN-KEYWORD,catchplay
   - DOMAIN-SUFFIX,catchplay.com
   - DOMAIN-SUFFIX,hp2-api.catchplay.com
   - DOMAIN-SUFFIX,ols-ww100-cp.akamaized.net
