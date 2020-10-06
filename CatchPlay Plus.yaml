@@ -3,7 +3,7 @@ payload:
   # - User-Agent,CatchPlay*
   - DOMAIN-KEYWORD,catchplay
   - DOMAIN-SUFFIX,catchplay.com
-  - DOMAIN-SUFFIX,hp2-api.catchplay.com
-  - DOMAIN-SUFFIX,ols-ww100-cp.akamaized.net
-  - DOMAIN-SUFFIX,vcmsapi.catchplay.com
-  - DOMAIN-SUFFIX,sunapi.catchplay.com
+  - DOMAIN,hp2-api.catchplay.com
+  - DOMAIN,ols-ww100-cp.akamaized.net
+  - DOMAIN,vcmsapi.catchplay.com
+  - DOMAIN,sunapi.catchplay.com
