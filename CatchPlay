@@ -1,8 +1,8 @@
 # > CatchPlay
 USER-AGENT,CatchPlay*,CatchPlay
 DOMAIN-KEYWORD,catchplay,CatchPlay
+DOMAIN,ols-ww100-cp.akamaized.net,CatchPlay
 DOMAIN-SUFFIX,catchplay.com,CatchPlay
-DOMAIN-SUFFIX,hp2-api.catchplay.com,CatchPlay
-DOMAIN-SUFFIX,ols-ww100-cp.akamaized.net,CatchPlay
-DOMAIN-SUFFIX,vcmsapi.catchplay.com,CatchPlay
-DOMAIN-SUFFIX,sunapi.catchplay.com,CatchPlay
+DOMAIN,hp2-api.catchplay.com,CatchPlay
+DOMAIN,vcmsapi.catchplay.com,CatchPlay
+DOMAIN,sunapi.catchplay.com,CatchPlay
