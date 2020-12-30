@@ -3,7 +3,7 @@ payload:
   - PROCESS-NAME,hk.hbo.hbogo
   - DOMAIN-SUFFIX,hbogoasia.com
   - DOMAIN-SUFFIX,hbogoasia.hk
-    - DOMAIN-SUFFIX,hbogoasia.tw
+  - DOMAIN-SUFFIX,hbogoasia.tw
   - DOMAIN,bcbolthboa-a.akamaihd.net
   - DOMAIN,players.brightcove.net
   - DOMAIN,s3-ap-southeast-1.amazonaws.com
