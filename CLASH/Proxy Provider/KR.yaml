@@ -1,6 +1,0 @@
-proxies:
-  - {name: Large 韩国01 - nfo | CBGP | 倍率:1, server: kr01.l.globalnetworktraffic.com, port: 1101, type: ssr, cipher: aes-256-cfb, password: di15PV, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 94847:M9outG, obfs-param: 8150394847.www.gov.hk}
-  - {name: Large 韩国02 - nfo | CBGP | 倍率:1, server: kr02.l.globalnetworktraffic.com, port: 1101, type: ssr, cipher: aes-256-cfb, password: di15PV, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 94847:M9outG, obfs-param: 8150394847.www.gov.hk}
-  - {name: Lil 韩国1 - netflix | NBGP | 倍率:1.3, server: kr1.cdn.globalnetworktraffic.com, port: 1200, type: ssr, cipher: rc4-md5, password: di15PV, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 94847:M9outG, obfs-param: 8150394847.www.gov.hk}
-  - {name: Lil 韩国2 - netflix | NBGP | 倍率:1.3, server: kr2.cdn.globalnetworktraffic.com, port: 1200, type: ssr, cipher: rc4-md5, password: di15PV, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 94847:M9outG, obfs-param: 8150394847.www.gov.hk}
-  - {name: Lil 韩国3 - netflix | NBGP | 倍率:1.3, server: kr3.cdn.globalnetworktraffic.com, port: 1200, type: ssr, cipher: rc4-md5, password: di15PV, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 94847:M9outG, obfs-param: 8150394847.www.gov.hk}
