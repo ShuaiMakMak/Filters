@@ -1,0 +1,18 @@
+payload:
+  # > Discovery Plus
+  # USER-AGENT,discovery+
+  - PROCESS-NAME,com.discoveryplus.mobile.android
+  - PROCESS-NAME,com.discoveryplus.tv.android
+  - DOMAIN-SUFFIX,litix.io
+  - DOMAIN-SUFFIX,discoveryplus.in
+  - DOMAIN,ap2-prod-images.disco-api.com
+  - DOMAIN,prod-realmservice.mercury.dnitv.com
+  - DOMAIN-SUFFIX,discoveryplus.com
+  - DOMAIN-SUFFIX,disco-api.com
+  - DOMAIN-SUFFIX,us1-prod-direct.discoveryplus.com
+  - DOMAIN-SUFFIX,getblueshift.com
+  - DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
+  - DOMAIN-SUFFIX,uplynk.com
+  - DOMAIN-SUFFIX,fwmrm.net
+  - DOMAIN-SUFFIX,mobile-collector.newrelic.com
+  - DOMAIN-SUFFIX,dnitv.com
