@@ -1,15 +1,15 @@
-# > Discovery Plus
-USER-AGENT,discovery+,Discovery Plus
-DOMAIN-SUFFIX,litix.io,Discovery Plus
-DOMAIN-SUFFIX,discoveryplus.in,Discovery Plus
-DOMAIN-SUFFIX,discoveryplus.com,Discovery Plus
-DOMAIN,ap2-prod-images.disco-api.com,Discovery Plus
-DOMAIN,prod-realmservice.mercury.dnitv.com,Discovery Plus
-DOMAIN-SUFFIX,disco-api.com,Discovery Plus
-DOMAIN-SUFFIX,us1-prod-direct.discoveryplus.com,Discovery Plus
-DOMAIN-SUFFIX,getblueshift.com,Discovery Plus
-DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com,Discovery Plus
-DOMAIN-SUFFIX,uplynk.com,Discovery Plus
-DOMAIN-SUFFIX,fwmrm.net,Discovery Plus
-DOMAIN-SUFFIX,mobile-collector.newrelic.com,Discovery Plus
-DOMAIN-SUFFIX,dnitv.com,Discovery Plus
+# > Discovery+
+USER-AGENT,discovery+,Discovery+
+DOMAIN-SUFFIX,litix.io,Discovery+
+DOMAIN-SUFFIX,discoveryplus.in,Discovery+
+DOMAIN-SUFFIX,discoveryplus.com,Discovery+
+DOMAIN,ap2-prod-images.disco-api.com,Discovery+
+DOMAIN,prod-realmservice.mercury.dnitv.com,Discovery+
+DOMAIN-SUFFIX,disco-api.com,Discovery+
+DOMAIN-SUFFIX,us1-prod-direct.discoveryplus.com,Discovery+
+DOMAIN-SUFFIX,getblueshift.com,Discovery+
+DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com,Discovery+
+DOMAIN-SUFFIX,uplynk.com,Discovery+
+DOMAIN-SUFFIX,fwmrm.net,Discovery+
+DOMAIN-SUFFIX,mobile-collector.newrelic.com,Discovery+
+DOMAIN-SUFFIX,dnitv.com,Discovery+
