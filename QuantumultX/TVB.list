@@ -1,8 +1,8 @@
 # > TVB
-USER-AGENT,encoreTVB*,encoreTVB
-DOMAIN-SUFFIX,encoretvb.com,encoreTVB
-DOMAIN,edge.api.brightcove.com,encoreTVB
-DOMAIN,bcbolt446c5271-a.akamaihd.net,encoreTVB
-USER-AGENT,mytv*,myTV SUPER
-DOMAIN-SUFFIX,mytvsuper.com,myTV SUPER
-DOMAIN-SUFFIX,tvb.com,myTV SUPER
+USER-AGENT,encoreTVB*,TVB
+DOMAIN-SUFFIX,encoretvb.com,TVB
+DOMAIN,edge.api.brightcove.com,TVB
+DOMAIN,bcbolt446c5271-a.akamaihd.net,TVB
+USER-AGENT,mytv*,TVB
+DOMAIN-SUFFIX,mytvsuper.com,TVB
+DOMAIN-SUFFIX,tvb.com,TVB
