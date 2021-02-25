@@ -1,0 +1,12 @@
+# > CatchPlay+
+USER-AGENT,CatchPlay*,CatchPlay+
+DOMAIN-KEYWORD,catchplay,CatchPlay+
+DOMAIN,asiaplay-origin.s3.amazonaws.com,CatchPlay+
+DOMAIN,tra-ww000-cp.akamaized.net,CatchPlay+
+DOMAIN,ols-ww100-cp.akamaized.net,CatchPlay+
+DOMAIN,ols-ww000-cp.akamaized.net,CatchPlay+
+DOMAIN-SUFFIX,catchplay.com,CatchPlay+
+DOMAIN,hp2-api.catchplay.com,CatchPlay+
+DOMAIN,vcmsapi.catchplay.com,CatchPlay+
+DOMAIN,sunapi.catchplay.com,CatchPlay+
+DOMAIN,catchplay.com/tw,CatchPlay+
