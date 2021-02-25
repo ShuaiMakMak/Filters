@@ -1,5 +1,5 @@
 payload:  
-  # > CatchPlay Plus
+  # > CatchPlayPlus
   # - User-Agent,CatchPlay*
   - DOMAIN-KEYWORD,catchplay
   - DOMAIN-SUFFIX,catchplay.com
