@@ -3,4 +3,10 @@ USER-AGENT,Emby*,Emby
 DOMAIN,emby.nexitally.com,Emby
 DOMAIN,emby.immtel.com,Emby
 DOMAIN,emby.maying.club,Emby
+DOMAIN,emby.plusmedia.site,Emby
+DOMAIN,emby-cf.plusmedia.site,Emby
+DOMAIN,emby.xeton.dev,Emby
+DOMAIN,jellyfin.xeton.dev,Emby
+DOMAIN,movie.xeton.dev,Emby
+DOMAIN,servers.xeton.dev,Emby
 HOST-KEYWORD,emby,Emby
