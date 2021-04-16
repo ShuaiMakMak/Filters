@@ -1,5 +1,6 @@
 # Emby
 USER-AGENT,Emby*,Emby
+HOST-KEYWORD,emby,Emby
 DOMAIN,emby.nexitally.com,Emby
 DOMAIN,emby.immtel.com,Emby
 DOMAIN,emby.maying.club,Emby
@@ -9,4 +10,27 @@ DOMAIN,emby.xeton.dev,Emby
 DOMAIN,jellyfin.xeton.dev,Emby
 DOMAIN,movie.xeton.dev,Emby
 DOMAIN,servers.xeton.dev,Emby
-HOST-KEYWORD,emby,Emby
+DOMAIN,emby.cjpc.xyz,Emby
+DOMAIN,emby.paoche.ooo,Emby
+DOMAIN,emby.flowercloud.yt,Emby
+DOMAIN,emby.mdss.cloud,Emby
+DOMAIN,emby.ytoo.li,Emby
+DOMAIN,embyserver.ga,Emby
+DOMAIN,emby.prprcloud.com,Emby
+DOMAIN,emby.nyancat.net,Emby
+DOMAIN,emby.ok.edu.hk,Emby
+DOMAIN,emby.neko.edu.rs,Emby
+DOMAIN,pub1.emby.wtf,Emby
+DOMAIN,pub1cf.emby.wtf,Emby
+DOMAIN,pub2.emby.wtf,Emby
+DOMAIN,pub2cf.emby.wtf,Emby
+DOMAIN,pub3.emby.wtf,Emby
+DOMAIN,pub3cf.emby.wtf,Emby
+DOMAIN,agahk1.jmsooo.com,Emby
+DOMAIN,agasg1.jmsooo.com,Emby
+DOMAIN,agajp1.jmsooo.com,Emby
+DOMAIN,aws.jmsooo.com,Emby
+DOMAIN,ntt1.jmsooo.com,Emby
+DOMAIN,hinet.jmsooo.com,Emby
+DOMAIN,cf1.jmsooo.com,Emby
+DOMAIN,aga.pornemby.club,Emby
