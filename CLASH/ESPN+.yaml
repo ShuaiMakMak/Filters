@@ -1,5 +1,6 @@
 payload:  
   # > ESPN+
+  - DOMAIN-KEYWORD,espn
   - DOMAIN-SUFFIX,vision.fn-pz.com
   - DOMAIN-SUFFIX,bam-sdk-configs.bamgrid.com
   - DOMAIN-SUFFIX,cdn.registerdisney.go.com
@@ -15,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,espn.net
   - DOMAIN-SUFFIX,espnqa.com
   - DOMAIN-SUFFIX,watchespn.com
+  - DOMAIN-SUFFIX,espn.hb.omtrdc.net
