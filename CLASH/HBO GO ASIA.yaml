@@ -16,3 +16,6 @@ payload:
   - DOMAIN,hboasia5-i.akamaihd.net
   - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
   - DOMAIN,hbogoprod-vod.akamaized.net
+  - DOMAIN,hboasialive.akamaized.net
+  - DOMAIN,hbolb.onwardsmg.com
+  - DOMAIN,hbounify-prod.evergent.com
