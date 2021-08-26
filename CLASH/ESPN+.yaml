@@ -30,3 +30,5 @@ payload:
   - DOMAIN-SUFFIX,j95vwycl9a.execute-api.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,dispatcher.is.autonavi.com
   - DOMAIN-SUFFIX,sportscenter.fan.api.es
+  - DOMAIN-SUFFIX,espn.api.edge.bamgrid.com
+  - DOMAIN-SUFFIX,geolocation.onetrust.com
