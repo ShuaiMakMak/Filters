@@ -1,6 +1,5 @@
 # > ESPN+
 USER-AGENT,ESPN*,ESPN+
-DOMAIN-KEYWORD,catchplay,ESPN+
 DOMAIN-KEYWORD,espn,ESPN+
 DOMAIN-SUFFIX,vision.fn-pz.com,ESPN+
 DOMAIN-SUFFIX,bam-sdk-configs.bamgrid.com,ESPN+
@@ -31,3 +30,5 @@ DOMAIN-SUFFIX,z.moatads.com,ESPN+
 DOMAIN-SUFFIX,j95vwycl9a.execute-api.us-east-1.amazonaws.com,ESPN+
 DOMAIN-SUFFIX,dispatcher.is.autonavi.com,ESPN+
 DOMAIN-SUFFIX,sportscenter.fan.api.es,ESPN+
+DOMAIN-SUFFIX,espn.api.edge.bamgrid.com,ESPN+
+DOMAIN-SUFFIX,geolocation.onetrust.com,ESPN+
