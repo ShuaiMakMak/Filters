@@ -20,3 +20,4 @@ payload:
   - DOMAIN-SUFFIX,dssott.com
   - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,js-agent.newrelic.com
+  - DOMAIN-SUFFIX,meida.starott.com
