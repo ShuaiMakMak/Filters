@@ -1,0 +1,6 @@
+payload:
+  # > Crunchyroll
+  # USER-AGENT,Crunchyroll*
+  - DOMAIN-SUFFIX,crunchyroll.com
+  - DOMAIN,vrv-eec.etp-prod.com
+  # DOMAIN-SUFFIX,vrv.co
