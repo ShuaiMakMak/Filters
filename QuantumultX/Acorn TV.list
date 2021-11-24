@@ -1,8 +1,8 @@
 # > AcornTV
-USER-AGENT,DAZN*,Acorn TV
 DOMAIN-SUFFIX,edge.api.brightcove.com,Acorn TV
-DOMAIN-SUFFIX,youboranqs01.com,Acorn TV
-DOMAIN-SUFFIX,ocsp.pki.goog,Acorn TV
 DOMAIN-SUFFIX,api.rlje.net,Acorn TV
-DOMAIN-SUFFIX,upgrades.svod.io,Acorn TV
+DOMAIN-SUFFIX,boltdns.net,Acorn TV
 DOMAIN-KEYWORD,acorn,Acorn TV
+#DOMAIN-SUFFIX,ocsp.pki.goog,Acorn TV
+#DOMAIN-SUFFIX,upgrades.svod.io,Acorn TV
+DOMAIN-SUFFIX,youboranqs01.com,Acorn TV
