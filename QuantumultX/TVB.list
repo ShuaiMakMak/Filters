@@ -1,14 +1,14 @@
 # > TVB
-DOMAIN-SUFFIX,encoretvb.com,TVB
-#DOMAIN,edge.api.brightcove.com,TVB
-DOMAIN,bcbolt446c5271-a.akamaihd.net,TVB
-DOMAIN-SUFFIX,mytvsuper.com,TVB
-DOMAIN-SUFFIX,tvb.com,TVB
+HOST,bcbolt446c5271-a.akamaihd.net,TVB
+#HOST,edge.api.brightcove.com,TVB
 HOST-SUFFIX,bigbigchannel.com.hk,TVB
 HOST-SUFFIX,bigbigshop.com,TVB
 HOST-SUFFIX,content.jwplatform.com,TVB
+HOST-SUFFIX,encoretvb.com,TVB
+HOST-SUFFIX,mytvsuper.com,TVB
 HOST-SUFFIX,mytvsuperlimited.hb.omtrdc.net,TVB
 HOST-SUFFIX,mytvsuperlimited.sc.omtrdc.net,TVB
+HOST-SUFFIX,tvb.com,TVB
 HOST-SUFFIX,tvb.com.au,TVB
 HOST-SUFFIX,tvbanywhere.com,TVB
 HOST-SUFFIX,tvbanywhere.com.sg,TVB
