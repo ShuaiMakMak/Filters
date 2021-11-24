@@ -1,5 +1,5 @@
 # > AcornTV
-DOMAIN-SUFFIX,edge.api.brightcove.com,Acorn TV
+#DOMAIN-SUFFIX,edge.api.brightcove.com,Acorn TV
 DOMAIN-SUFFIX,api.rlje.net,Acorn TV
 DOMAIN-SUFFIX,boltdns.net,Acorn TV
 DOMAIN-KEYWORD,acorn,Acorn TV
