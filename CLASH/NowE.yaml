@@ -3,6 +3,6 @@ payload:
   - PROCESS-NAME,com.pccw.nowemobile
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-SUFFIX,nowestatic.com
-  - DOMAIN-SUFFIX,pccw-cf-epl.akamaized.net
+  - DOMAIN,pccw-cf-epl.akamaized.net
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,now-tv.com
