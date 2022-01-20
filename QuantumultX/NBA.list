@@ -10,5 +10,7 @@ DOMAIN,watchnba.cdnfastly.endeavorstreaming.net,NBA
 DOMAIN,nbaapi.neulion.com,NBA
 DOMAIN,nba-api-cdn.opin.media,NBA
 DOMAIN,neulionqos-a.akamaihd.net,NBA
-DOMAIN,neulion.com,NBA
+DOMAIN-SUFFIX,neulion.com,NBA
 DOMAIN,nbaprop.tt.omtrdc.net,NBA
+DOMAIN,lion-nba-msl.akamaized.net
+DOMAIN,nbanlds19vod.akamaized.net
