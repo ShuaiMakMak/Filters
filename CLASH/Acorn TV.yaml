@@ -1,0 +1,6 @@
+payload:
+  # > Acorn TV
+  - DOMAIN-KEYWORD,acorn
+  - DOMAIN-SUFFIX,edge.api.brightcove.com
+  - DOMAIN-SUFFIX,api.rlje.net
+  - DOMAIN-SUFFIX,boltdns.net
