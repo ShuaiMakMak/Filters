@@ -3,6 +3,8 @@ USER-AGENT,IPTV*,IPTV
   - DOMAIN-SUFFIX,ultras.cdn-pro.xyz,IPTV
   - DOMAIN-SUFFIX,supiptv.vip,IPTV
   - DOMAIN-SUFFIX,sverigeplay.tv,IPTV
+  - DOMAIN-SUFFIX,tv.maltaip.com,IPTV
+  - DOMAIN-SUFFIX,connect.proxytx.cloud,IPTV
   - IP-CIDR,194.59.155.0/24,no-resolve
   - IP-CIDR,213.183.40.0/24,no-resolve
   - IP-CIDR,213.183.42.0/24,no-resolve
