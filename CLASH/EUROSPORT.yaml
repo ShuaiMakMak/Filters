@@ -29,3 +29,4 @@ payload:
   - DOMAIN-SUFFIX,akamai.prod-live.h264.io
   - DOMAIN,discoverydp.d3.sc.omtrdc.net
   - DOMAIN,discoverydp.hb.omtrdc.net
+  - DOMAIN,netsport.eurosport.io
