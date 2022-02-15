@@ -6,7 +6,6 @@ DOMAIN,eurosport-dlvr-ott.akamaized.net,EUROSPORT
 DOMAIN,pfld0qg7tn2m958npaamp558n.litix.io,EUROSPORT
 DOMAIN,eu3-prod-images.disco-api.com,EUROSPORT
 DOMAIN,keys.vdp.h264.io,EUROSPORT
-DOMAIN,e7329.dscf.akamaiedge.net,EUROSPORT
 DOMAIN,eu3-prod.disco-api.com,EUROSPORT
 DOMAIN-SUFFIX,eurosportplayer.com,EUROSPORT
 DOMAIN-SUFFIX,eurosport.com,EUROSPORT
@@ -16,6 +15,7 @@ DOMAIN,eu3-prod-images.disco-api.com,EUROSPORT
 DOMAIN,media-shield.live.eurosport.map.fastly.net,EUROSPORT
 DOMAIN,eurosport-dlvr-ott-vod.akamaized.net,EUROSPORT
 DOMAIN-SUFFIX,akamai.prod-live.h264.io,EUROSPORT
+#DOMAIN,e7329.dscf.akamaiedge.net,EUROSPORT
 #DOMAIN,a1831.v.akamai.net,EUROSPORT
 #DOMAIN,global-prod.disco-api.com,EUROSPORT
 #DOMAIN,a1869.v.akamai.net,EUROSPORT
