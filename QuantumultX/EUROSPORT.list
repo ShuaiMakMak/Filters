@@ -16,10 +16,10 @@ DOMAIN-SUFFIX,eurosport.ru,EUROSPORT
 DOMAIN,eu3-prod-images.disco-api.com,EUROSPORT
 DOMAIN,a1869.v.akamai.net,EUROSPORT
 DOMAIN,media-shield.live.eurosport.map.fastly.net,EUROSPORT
-DOMAIN,global-prod.disco-api.com,EUROSPORT
-DOMAIN,a1869.v.akamai.net,EUROSPORT
 DOMAIN,eurosport-dlvr-ott-vod.akamaized.net,EUROSPORT
 DOMAIN-SUFFIX,akamai.prod-live.h264.io,EUROSPORT
+#DOMAIN,global-prod.disco-api.com,EUROSPORT
+#DOMAIN,a1869.v.akamai.net,EUROSPORT
 #DOMAIN,discoverydp.sc.omtrdc.net,EUROSPORT
 #DOMAIN,discoverydp.d3.sc.omtrdc.net,EUROSPORT
 #DOMAIN,discoverydp.hb.omtrdc.net,EUROSPORT
