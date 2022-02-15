@@ -22,9 +22,9 @@ payload:
   - DOMAIN,a1869.v.akamai.net
   - DOMAIN,eurosport-dlvr-ott-vod.akamaized.net
   - DOMAIN-SUFFIX,akamai.prod-live.h264.io
-  - DOMAIN,discoverydp.d3.sc.omtrdc.net
-  - DOMAIN,discoverydp.hb.omtrdc.net
-  - DOMAIN,netsport.eurosport.io 
+#  - DOMAIN,discoverydp.d3.sc.omtrdc.net
+#  - DOMAIN,discoverydp.hb.omtrdc.net
+#  - DOMAIN,netsport.eurosport.io 
 #  - DOMAIN-SUFFIX,sentry.io
 #  - DOMAIN,assets.adobedtm.com
 #  - DOMAIN,dpm.demdex.net
