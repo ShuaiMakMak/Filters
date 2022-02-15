@@ -14,19 +14,20 @@ payload:
   - DOMAIN-SUFFIX,eurosport.com
   - DOMAIN-SUFFIX,eurosport.fr
   - DOMAIN-SUFFIX,eurosport.ru
-  - DOMAIN-SUFFIX,sentry.io
-  - DOMAIN,assets.adobedtm.com
-  - DOMAIN,dpm.demdex.net
   - DOMAIN,discoverydp.sc.omtrdc.net
   - DOMAIN,eu3-prod-images.disco-api.com
-  - DOMAIN,mobile-collector.newrelic.com
   - DOMAIN,a1869.v.akamai.net
   - DOMAIN,media-shield.live.eurosport.map.fastly.net
   - DOMAIN,global-prod.disco-api.com
   - DOMAIN,a1869.v.akamai.net
-  - DOMAIN,pool.ntp.org
   - DOMAIN,eurosport-dlvr-ott-vod.akamaized.net
   - DOMAIN-SUFFIX,akamai.prod-live.h264.io
   - DOMAIN,discoverydp.d3.sc.omtrdc.net
   - DOMAIN,discoverydp.hb.omtrdc.net
   - DOMAIN,netsport.eurosport.io
+  
+#  - DOMAIN-SUFFIX,sentry.io
+#  - DOMAIN,assets.adobedtm.com
+#  - DOMAIN,dpm.demdex.net
+#  - DOMAIN,pool.ntp.org
+#  - DOMAIN,mobile-collector.newrelic.com
