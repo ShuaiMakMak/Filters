@@ -9,7 +9,6 @@ payload:
   - DOMAIN,keys.vdp.h264.io
   - DOMAIN,e7329.dscf.akamaiedge.net
   - DOMAIN,eu3-prod.disco-api.com
-  - DOMAIN,a1831.v.akamai.net
   - DOMAIN-SUFFIX,eurosportplayer.com
   - DOMAIN-SUFFIX,eurosport.com
   - DOMAIN-SUFFIX,eurosport.fr
@@ -18,6 +17,7 @@ payload:
   - DOMAIN,media-shield.live.eurosport.map.fastly.net
   - DOMAIN,eurosport-dlvr-ott-vod.akamaized.net
   - DOMAIN-SUFFIX,akamai.prod-live.h264.io
+#  - DOMAIN,a1831.v.akamai.net
 #  - DOMAIN,a1869.v.akamai.net
 #  - DOMAIN,global-prod.disco-api.com
 #  - DOMAIN,discoverydp.sc.omtrdc.net
