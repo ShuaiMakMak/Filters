@@ -15,12 +15,11 @@ payload:
   - DOMAIN-SUFFIX,eurosport.fr
   - DOMAIN-SUFFIX,eurosport.ru
   - DOMAIN,eu3-prod-images.disco-api.com
-  - DOMAIN,a1869.v.akamai.net
   - DOMAIN,media-shield.live.eurosport.map.fastly.net
-  - DOMAIN,global-prod.disco-api.com
-  - DOMAIN,a1869.v.akamai.net
   - DOMAIN,eurosport-dlvr-ott-vod.akamaized.net
   - DOMAIN-SUFFIX,akamai.prod-live.h264.io
+#  - DOMAIN,a1869.v.akamai.net
+#  - DOMAIN,global-prod.disco-api.com
 #  - DOMAIN,discoverydp.sc.omtrdc.net
 #  - DOMAIN,discoverydp.d3.sc.omtrdc.net
 #  - DOMAIN,discoverydp.hb.omtrdc.net
