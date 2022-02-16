@@ -2,6 +2,9 @@ payload:
   # > IPTV
   # USER-AGENT,IPTV
   - DOMAIN-SUFFIX,ultras.cdn-pro.xyz
+  - DOMAIN-SUFFIX,cdn.tvbro.xyz
+  - DOMAIN-SUFFIX,playlist.telek.xyz
+  - DOMAIN-SUFFIX,storage.greatiptv.cc
   - DOMAIN-SUFFIX,supiptv.vip
   - DOMAIN-SUFFIX,sverigeplay.tv
   - DOMAIN-SUFFIX,tv.maltaip.com
