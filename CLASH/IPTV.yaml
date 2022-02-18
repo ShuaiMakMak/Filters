@@ -9,6 +9,8 @@ payload:
   - DOMAIN-SUFFIX,sverigeplay.tv
   - DOMAIN-SUFFIX,tv.maltaip.com
   - DOMAIN-SUFFIX,connect.proxytx.cloud
+  - DOMAIN-SUFFIX,kungtv.net
+  - DOMAIN-SUFFIX,pstvprime.watch
   - IP-CIDR,194.59.155.0/24,no-resolve
   - IP-CIDR,213.183.40.0/24,no-resolve
   - IP-CIDR,213.183.42.0/24,no-resolve
