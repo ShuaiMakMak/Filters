@@ -4,6 +4,7 @@ USER-AGENT,iSTB*,IPTV
 #bill.best
 DOMAIN-SUFFIX,ultras.cdn-pro.xyz,IPTV
 DOMAIN-SUFFIX,cdn.tvbro.xyz,IPTV
+DOMAIN-SUFFIX,cdn2.tvbro.xyz,IPTV
 DOMAIN-SUFFIX,playlist.telek.xyz,IPTV
 DOMAIN-SUFFIX,ultra-tv.online,IPTV
 IP-CIDR,62.149.6.21/32,IPTV
