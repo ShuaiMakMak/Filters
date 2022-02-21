@@ -1,15 +1,14 @@
 # > IPTV
-USER-AGENT,IPTV*,IPTV
+USER-AGENT,iSTB*,IPTV
+
+#bill.best
 DOMAIN-SUFFIX,ultras.cdn-pro.xyz,IPTV
 DOMAIN-SUFFIX,cdn.tvbro.xyz,IPTV
 DOMAIN-SUFFIX,playlist.telek.xyz,IPTV
-DOMAIN-SUFFIX,storage.greatiptv.cc,IPTV
-DOMAIN-SUFFIX,supiptv.vip,IPTV
-DOMAIN-SUFFIX,sverigeplay.tv,IPTV
-DOMAIN-SUFFIX,tv.maltaip.com,IPTV
-DOMAIN-SUFFIX,connect.proxytx.cloud,IPTV
-DOMAIN-SUFFIX,kungtv.net,IPTV
-DOMAIN-SUFFIX,pstvprime.watch,IPTV
+DOMAIN-SUFFIX,ultra-tv.online,IPTV
+IP-CIDR,62.149.6.21/32,no-resolve,IPTV
+
+#iLook
 IP-CIDR,194.59.155.0/24,IPTV
 IP-CIDR,213.183.40.0/24,IPTV
 IP-CIDR,213.183.42.0/24,IPTV
@@ -27,3 +26,12 @@ DOMAIN-SUFFIX,akciatv.ru,IPTV
 DOMAIN-SUFFIX,russtv.net,IPTV
 DOMAIN-SUFFIX,zatikov.net,IPTV
 DOMAIN-KEYWORD,russtv,IPTV
+
+#其他
+DOMAIN-SUFFIX,storage.greatiptv.cc,IPTV
+DOMAIN-SUFFIX,supiptv.vip,IPTV
+DOMAIN-SUFFIX,sverigeplay.tv,IPTV
+DOMAIN-SUFFIX,tv.maltaip.com,IPTV
+DOMAIN-SUFFIX,connect.proxytx.cloud,IPTV
+DOMAIN-SUFFIX,kungtv.net,IPTV
+DOMAIN-SUFFIX,pstvprime.watch,IPTV
