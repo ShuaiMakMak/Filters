@@ -1,4 +1,4 @@
 payload:
   # > Amazon
-  - DOMAIN-SUFFIX,amazon.com
-  - DOMAIN-SUFFIX,amazon.co.jp
+  - DOMAIN,www.amazon.com
+  - DOMAIN,amazon.co.jp
