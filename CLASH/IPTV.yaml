@@ -10,7 +10,7 @@ payload:
   - IP-CIDR,62.149.6.21/32,no-resolve
   
   #light
-  - DOMAIN-SUFFIX,pl2light.pp.ru
+  - DOMAIN-SUFFIX,pp.ru
   - DOMAIN-SUFFIX,tv.lightiptv.cc
   
   #其他
