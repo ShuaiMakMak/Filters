@@ -9,30 +9,10 @@ payload:
   - DOMAIN-SUFFIX,playlist.telek.xyz
   - IP-CIDR,62.149.6.21/32,no-resolve
   
-  #iLook
-  - IP-CIDR,194.59.155.0/24,no-resolve
-  - IP-CIDR,213.183.40.0/24,no-resolve
-  - IP-CIDR,213.183.42.0/24,no-resolve
-  - IP-CIDR,213.183.47.0/24,no-resolve
-  - IP-CIDR,5.182.228.0/24,no-resolve
-  - IP-CIDR,5.182.229.0/24,no-resolve
-  - IP-CIDR,5.182.231.0/24,no-resolve
-  - IP-CIDR,5.188.172.0/24,no-resolve
-  - IP-CIDR,77.72.19.0/24,no-resolve
-  - IP-CIDR,77.72.23.0/24,no-resolve
-  - IP-CIDR,92.119.88.0/24,no-resolve
-  - IP-CIDR,92.119.89.0/24,no-resolve
-  - IP-CIDR,93.189.56.0/24,no-resolve
-  - DOMAIN-SUFFIX,akciatv.ru
-  - DOMAIN-SUFFIX,russtv.net
-  - DOMAIN-SUFFIX,zatikov.net
-  - DOMAIN-KEYWORD,russtv
+  #light
+  - DOMAIN-SUFFIX,pl2light.pp.ru
+  - DOMAIN-SUFFIX,tv.lightiptv.cc
   
   #其他
   - DOMAIN-SUFFIX,storage.greatiptv.cc
   - DOMAIN-SUFFIX,supiptv.vip
-  - DOMAIN-SUFFIX,sverigeplay.tv
-  - DOMAIN-SUFFIX,tv.maltaip.com
-  - DOMAIN-SUFFIX,connect.proxytx.cloud
-  - DOMAIN-SUFFIX,kungtv.net
-  - DOMAIN-SUFFIX,pstvprime.watch
