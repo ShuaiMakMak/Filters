@@ -4,7 +4,6 @@ payload:
   - DOMAIN,europe-fastly-mediashield-live-prod.cdn.h264.io
   - DOMAIN,a9010d017688211ea9afe0620acb249f-596514373.us-east-1.elb.amazonaws.com
   - DOMAIN,eurosport-dlvr-ott.akamaized.net
-  - DOMAIN,pfld0qg7tn2m958npaamp558n.litix.io
   - DOMAIN,eu3-prod-images.disco-api.com
   - DOMAIN,eu3-prod.disco-api.com
   - DOMAIN-SUFFIX,eurosportplayer.com
@@ -29,3 +28,4 @@ payload:
 #  - DOMAIN,dpm.demdex.net
 #  - DOMAIN,pool.ntp.org
 #  - DOMAIN,mobile-collector.newrelic.com
+#  - DOMAIN,pfld0qg7tn2m958npaamp558n.litix.io
