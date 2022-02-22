@@ -11,7 +11,6 @@ payload:
   - DOMAIN-SUFFIX,eurosport.com
   - DOMAIN-SUFFIX,eurosport.fr
   - DOMAIN-SUFFIX,eurosport.ru
-  - DOMAIN,eu3-prod-images.disco-api.com
   - DOMAIN,media-shield.live.eurosport.map.fastly.net
   - DOMAIN,eurosport-dlvr-ott-vod.akamaized.net
   - DOMAIN-SUFFIX,akamai.prod-live.h264.io
