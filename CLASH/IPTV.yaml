@@ -3,8 +3,7 @@ payload:
   # USER-AGENT,IPTV
   #bill.best
   - DOMAIN-SUFFIX,ultras.cdn-pro.xyz
-  - DOMAIN-SUFFIX,cdn.tvbro.xyz
-  - DOMAIN-SUFFIX,cdn2.tvbro.xyz
+  - DOMAIN-SUFFIX,tvbro.xyz
   - DOMAIN-SUFFIX,ultra-tv.online
   - DOMAIN-SUFFIX,playlist.telek.xyz
   - IP-CIDR,62.149.6.21/32,no-resolve
