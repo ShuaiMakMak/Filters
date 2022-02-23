@@ -15,7 +15,9 @@ payload:
   
   #TV.TEAM
   - DOMAIN-SUFFIX,troya.tv
+  - DOMAIN-SUFFIX,tv.team
  
   #其他
   - DOMAIN-SUFFIX,storage.greatiptv.cc
   - DOMAIN-SUFFIX,supiptv.vip
+  - DOMAIN-SUFFIX,clientportal-proiptv.club
