@@ -1,5 +1,5 @@
 # > IPTV
-USER-AGENT,iSTB*,IPTV
+#USER-AGENT,iSTB*,IPTV
 
 #bill.best
 DOMAIN-SUFFIX,ultras.cdn-pro.xyz,IPTV
