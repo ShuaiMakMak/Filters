@@ -13,6 +13,9 @@ payload:
   - DOMAIN-SUFFIX,pp.ru
   - DOMAIN-SUFFIX,tv.lightiptv.cc
   
+  #TV.TEAM
+  - DOMAIN-SUFFIX,troya.tv
+ 
   #其他
   - DOMAIN-SUFFIX,storage.greatiptv.cc
   - DOMAIN-SUFFIX,supiptv.vip
