@@ -1,6 +1,8 @@
 # > EUROSPORT
 USER-AGENT,EUROSPORT*,EUROSPORT
 DOMAIN,europe-fastly-mediashield-live-prod.cdn.h264.io,EUROSPORT
+DOMAIN-SUFFIX,akamai.prod-live.h264.io,EUROSPORT
+
 DOMAIN,eurosport-dlvr-ott.akamaized.net,EUROSPORT
 DOMAIN,eu3-prod-images.disco-api.com,EUROSPORT
 DOMAIN,eu3-prod.disco-api.com,EUROSPORT
@@ -10,7 +12,6 @@ DOMAIN-SUFFIX,eurosport.fr,EUROSPORT
 DOMAIN-SUFFIX,eurosport.ru,EUROSPORT
 DOMAIN,media-shield.live.eurosport.map.fastly.net,EUROSPORT
 DOMAIN,eurosport-dlvr-ott-vod.akamaized.net,EUROSPORT
-DOMAIN-SUFFIX,akamai.prod-live.h264.io,EUROSPORT
 
 #DOMAIN,keys.vdp.h264.io,EUROSPORT
 #DOMAIN,e7329.dscf.akamaiedge.net,EUROSPORT
