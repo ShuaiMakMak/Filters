@@ -10,7 +10,7 @@ payload:
   
   #light
   - DOMAIN-SUFFIX,pp.ru
-  - DOMAIN-SUFFIX,tv.lightiptv.cc
+  - DOMAIN-SUFFIX,lightiptv.cc
   
   #TV.TEAM
   - DOMAIN-SUFFIX,troya.tv
