@@ -10,7 +10,7 @@ IP-CIDR,62.149.6.21/32,IPTV
 
 #light
 DOMAIN-SUFFIX,pp.ru,IPTV
-DOMAIN-SUFFIX,tv.lightiptv.cc,IPTV
+DOMAIN-SUFFIX,lightiptv.cc,IPTV
 
 #TV.TEAM
 DOMAIN-SUFFIX,troya.tv,IPTV
