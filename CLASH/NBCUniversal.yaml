@@ -5,4 +5,29 @@ payload:
   - DOMAIN-SUFFIX,peacocktv.com
   ## 屏蔽广告
   # DOMAIN,video-ads-module.ad-tech.nbcuni.com
-  
+  # NBCUniversal
+  - DOMAIN-SUFFIX,bravotv.com
+  - DOMAIN-SUFFIX,cnbc.com
+  - DOMAIN-SUFFIX,cnbcfm.com
+  - DOMAIN-SUFFIX,eluniverso.com
+  - DOMAIN-SUFFIX,eonline.com
+  - DOMAIN-SUFFIX,msnbc.com
+  - DOMAIN-SUFFIX,nbc-sports.go-vip.net
+  - DOMAIN-SUFFIX,nbc.co
+  - DOMAIN-SUFFIX,nbc.com
+  - DOMAIN-SUFFIX,nbcnews.com
+  - DOMAIN-SUFFIX,nbcsports.com
+  - DOMAIN-SUFFIX,nbcsports.h-cdn.com
+  - DOMAIN-SUFFIX,nbcudigitaladops.com
+  - DOMAIN-SUFFIX,nbcuni.com
+  - DOMAIN-SUFFIX,oxygen.com
+  - DOMAIN-SUFFIX,s-nbcnews.com
+  - DOMAIN-SUFFIX,syfy.com
+  - DOMAIN-SUFFIX,telemundo.com
+  - DOMAIN-SUFFIX,universalkids.com
+  - DOMAIN-SUFFIX,usanetwork.com
+  - DOMAIN-SUFFIX,nbcuniversal.com
+  - DOMAIN-SUFFIX,universalorlando.com
+  - DOMAIN-SUFFIX,universalpictures.com
+  - DOMAIN-SUFFIX,universalpicturesinternational.com
+  - DOMAIN-SUFFIX,universalstudioshollywood.com
