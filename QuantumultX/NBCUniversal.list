@@ -1,0 +1,46 @@
+# > NBCUniversal
+# > Peacock
+USER-AGENT,peacock*,Peacock
+DOMAIN-SUFFIX,peacocktv.com,Peacock
+## 屏蔽广告
+#DOMAIN,video-ads-module.ad-tech.nbcuni.com,Peacock
+# > NBCUniversal
+DOMAIN-SUFFIX,bravotv.com,Peacock
+DOMAIN-SUFFIX,cnbc.com,Peacock
+DOMAIN-SUFFIX,cnbcfm.com,Peacock
+DOMAIN-SUFFIX,eluniverso.com,Peacock
+DOMAIN-SUFFIX,eonline.com,Peacock
+DOMAIN-SUFFIX,msnbc.com,Peacock
+DOMAIN-SUFFIX,nbc-sports.go-vip.net,Peacock
+DOMAIN-SUFFIX,nbc.co,Peacock
+DOMAIN-SUFFIX,nbc.com,Peacock
+DOMAIN-SUFFIX,nbcnews.com,Peacock
+DOMAIN-SUFFIX,nbcsports.com,Peacock
+DOMAIN-SUFFIX,nbcsports.h-cdn.com,Peacock
+DOMAIN-SUFFIX,nbcudigitaladops.com,Peacock
+DOMAIN-SUFFIX,nbcuni.com,Peacock
+DOMAIN-SUFFIX,oxygen.com,Peacock
+DOMAIN-SUFFIX,s-nbcnews.com,Peacock
+DOMAIN-SUFFIX,syfy.com,Peacock
+DOMAIN-SUFFIX,telemundo.com,Peacock
+DOMAIN-SUFFIX,universalkids.com,Peacock
+DOMAIN-SUFFIX,usanetwork.com,Peacock
+DOMAIN-SUFFIX,nbcuniversal.com,Peacock
+DOMAIN-SUFFIX,universalorlando.com,Peacock
+DOMAIN-SUFFIX,universalpictures.com,Peacock
+DOMAIN-SUFFIX,universalpicturesinternational.com,Peacock
+DOMAIN-SUFFIX,universalstudioshollywood.com,Peacock
+  
+DOMAIN,api.auth.adobe.com,Peacock
+DOMAIN,geo.totalcast.tv,Peacock
+DOMAIN,geoapi.totalcast.tv,Peacock
+DOMAIN,sprtsecureassets.akamaized.net,Peacock
+DOMAIN,tvegolf.akamaized.net,Peacock
+DOMAIN-KEYWORD,sprtlive,Peacock
+DOMAIN-KEYWORD,nbc,Peacock
+#  - DOMAIN,29773.v.fwmrm.net
+#  - DOMAIN,e12872de91aaca7a39095801bdf5f168d87912fa.cws.conviva.com
+#  - DOMAIN,co.vaicore.site
+#  - DOMAIN,feed.theplatform.com
+#  - DOMAIN,api.sail-track.com
+#  - DOMAIN-SUFFIX,urbanairship.com
