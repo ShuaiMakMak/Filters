@@ -26,7 +26,6 @@ payload:
   - DOMAIN-SUFFIX,mobile-collector.newrelic.com
   - DOMAIN-SUFFIX,sb.scorecardresearch.com
   - DOMAIN-SUFFIX,logx.optimizely.com
-  - DOMAIN-SUFFIX,z.moatads.com
   - DOMAIN-SUFFIX,j95vwycl9a.execute-api.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,dispatcher.is.autonavi.com
   - DOMAIN-SUFFIX,sportscenter.fan.api.es
