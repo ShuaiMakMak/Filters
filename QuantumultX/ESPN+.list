@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,insights-collector.newrelic.com,ESPN+
 DOMAIN-SUFFIX,mobile-collector.newrelic.com,ESPN+
 DOMAIN-SUFFIX,sb.scorecardresearch.com,ESPN+
 DOMAIN-SUFFIX,logx.optimizely.com,ESPN+
-/DOMAIN-SUFFIX,z.moatads.com,ESPN+
+#DOMAIN-SUFFIX,z.moatads.com,ESPN+
 DOMAIN-SUFFIX,j95vwycl9a.execute-api.us-east-1.amazonaws.com,ESPN+
 DOMAIN-SUFFIX,dispatcher.is.autonavi.com,ESPN+
 DOMAIN-SUFFIX,sportscenter.fan.api.es,ESPN+
