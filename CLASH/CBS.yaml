@@ -1,0 +1,33 @@
+payload:
+  # > CBS
+  - DOMAIN-SUFFIX,amlg.io,CBS
+  - DOMAIN-KEYWORD,cbs,CBS
+  - DOMAIN-SUFFIX,cbscorporation.com,CBS
+  - DOMAIN-SUFFIX,cbsi.video,CBS
+  - DOMAIN-SUFFIX,cbsiam.com,CBS
+  - DOMAIN-SUFFIX,cbsig.net,CBS
+  - DOMAIN-SUFFIX,cbsimg.net,CBS
+  - DOMAIN-SUFFIX,cbsinteractive.com,CBS
+  - DOMAIN-SUFFIX,cbsistatic.com,CBS
+  - DOMAIN-SUFFIX,cbsnews.com,CBS
+  - DOMAIN-SUFFIX,cbspressexpress.com,CBS
+  - DOMAIN-SUFFIX,cbsradio.com,CBS
+  - DOMAIN-SUFFIX,cbssports.com,CBS
+  - DOMAIN-SUFFIX,cbsstatic.com,CBS
+  - DOMAIN-SUFFIX,cbsstore.com,CBS
+  - DOMAIN-SUFFIX,cbssvideo.com,CBS
+  - DOMAIN-SUFFIX,cbstelevisioncity.com,CBS
+  - DOMAIN-SUFFIX,mtvnservices.com,CBS
+  - DOMAIN-SUFFIX,paramount.com,CBS
+  - DOMAIN-KEYWORD,pluto,CBS
+  - DOMAIN-SUFFIX,showtime.com,CBS
+  - DOMAIN-SUFFIX,showtimeanytime.com,CBS
+  - DOMAIN-SUFFIX,viacbs.com,CBS
+  - DOMAIN-SUFFIX,viacom.com,CBS
+  - DOMAIN-SUFFIX,viacomcbs.com,CBS
+  - DOMAIN-SUFFIX,viacomcbspressexpress.com,CBS
+  - DOMAIN-SUFFIX,viacomcbs.digital,CBS
+  - DOMAIN-SUFFIX,viacbs.tech,CBS
+  - DOMAIN-SUFFIX,smithsonianchannel.com,CBS
+  - DOMAIN,smithsonian.orchestrator.viacomcbs-tech.com,CBS
+#  - DOMAIN,kamd8jpdbeekn8gapkqcupq14.litix.io,CBS
