@@ -16,7 +16,7 @@ payload:
   - DOMAIN-SUFFIX,troya.tv
   - DOMAIN-SUFFIX,tv.team
  
-  ##ilook.tv
+  # ilook.tv
   - IP-CIDR,194.59.155.0/24,no-resolve
   - IP-CIDR,213.183.40.0/24,no-resolve
   - IP-CIDR,213.183.42.0/24,no-resolve
