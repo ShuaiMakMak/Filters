@@ -1,22 +1,22 @@
 # > IPTV
 #USER-AGENT,iSTB*,IPTV
 
-#bill.best
+# bill.best
 DOMAIN-SUFFIX,ultras.cdn-pro.xyz,IPTV
 DOMAIN-SUFFIX,tvbro.xyz,IPTV
 DOMAIN-SUFFIX,playlist.telek.xyz,IPTV
 DOMAIN-SUFFIX,ultra-tv.online,IPTV
 IP-CIDR,62.149.6.21/32,IPTV
 
-#light
+# light
 DOMAIN-SUFFIX,pp.ru,IPTV
 DOMAIN-SUFFIX,lightiptv.cc,IPTV
 
-#TV.TEAM
+# TV.TEAM
 DOMAIN-SUFFIX,troya.tv,IPTV
 DOMAIN-SUFFIX,tv.team,IPTV
 
-#其他
+# 其他
 IP-CIDR,194.59.155.0/24,IPTV
 IP-CIDR,213.183.40.0/24,IPTV
 IP-CIDR,213.183.42.0/24,IPTV
