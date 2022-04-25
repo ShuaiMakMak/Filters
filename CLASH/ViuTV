@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,viu.now.com
+  - DOMAIN,viutv-cloudstore-prod.firebaseio.com
+  - DOMAIN-SUFFIX,viu.tv
