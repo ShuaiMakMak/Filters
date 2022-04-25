@@ -1,5 +1,5 @@
 # > ViuTV
 // USER-AGENT,ViuTV*,ViuTV
-DOMAIN-SUFFIX,viu.now.com,ViuTV,ViuTV,ViuTV
+DOMAIN-SUFFIX,viu.now.com,ViuTV
 DOMAIN,viutv-cloudstore-prod.firebaseio.com,ViuTV
 DOMAIN-SUFFIX,viu.tv,ViuTV
