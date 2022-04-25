@@ -6,3 +6,5 @@ payload:
   - DOMAIN,pccw-cf-epl.akamaized.net
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,now-tv.com
+  - DOMAIN-SUFFIX,viu.tv
+  - DOMAIN-KEYWORD,viutv
