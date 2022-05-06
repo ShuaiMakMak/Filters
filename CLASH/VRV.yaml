@@ -1,4 +1,0 @@
-payload:
-  # > crunchyroll
-  # USER-AGENT,crunchyroll*
-  - DOMAIN-SUFFIX,vrv.co
