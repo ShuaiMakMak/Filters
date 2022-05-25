@@ -5,3 +5,4 @@ payload:
   - DOMAIN,vrv-eec.etp-prod.com
   - DOMAIN-SUFFIX,vrv.co
   - DOMAIN-SUFFIX,funimation.com
+  - DOMAIN,prod-api-funimationnow.dadcdigital.com
