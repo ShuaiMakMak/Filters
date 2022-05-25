@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,vrv.co
   - DOMAIN-SUFFIX,funimation.com
   - DOMAIN,prod-api-funimationnow.dadcdigital.com
+  - DOMAIN-KEYWORD,funimation
