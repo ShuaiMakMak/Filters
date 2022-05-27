@@ -16,10 +16,9 @@ DOMAIN-SUFFIX,lightiptv.cc,IPTV
 DOMAIN-SUFFIX,troya.tv,IPTV
 DOMAIN-SUFFIX,tv.team,IPTV
 
- 
 # Supiptv
 DOMAIN-SUFFIX,supiptv.vip,IPTV
-DOMAIN-SUFFIX,clientportal-proiptv.club,IPTV
+#DOMAIN-SUFFIX,clientportal-proiptv.club,IPTV
 IP-CIDR,195.133.0.0/24,IPTV
 IP-CIDR,212.192.0.0/24,IPTV
 IP-CIDR,45.132.0.0/24,IPTV
