@@ -18,7 +18,7 @@ payload:
  
   # Supiptv
   - DOMAIN-SUFFIX,supiptv.vip
-  - DOMAIN-SUFFIX,clientportal-proiptv.club
+#  - DOMAIN-SUFFIX,clientportal-proiptv.club
   - IP-CIDR,195.133.0.0/24,no-resolve
   - IP-CIDR,212.192.0.0/24,no-resolve
   - IP-CIDR,45.132.0.0/24,no-resolve
