@@ -18,6 +18,14 @@ payload:
  
   # Supiptv
   - DOMAIN-SUFFIX,supiptv.vip
+  - IP-CIDR,195.133.0.0/12,no-resolve
+  - IP-CIDR,212.192.0.0/12,no-resolve
+  - IP-CIDR,45.132.0.0/12,no-resolve
+  - IP-CIDR,45.148.0.0/12,no-resolve
+  - IP-CIDR,45.150.0.0/12,no-resolve
+  - IP-CIDR,45.86.0.0/12,no-resolve
+  - IP-CIDR,45.94.0.0/12,no-resolve
+  - IP-CIDR,85.203.0.0/12,no-resolve
   
   # ilook.tv
   - IP-CIDR,194.59.155.0/24,no-resolve
