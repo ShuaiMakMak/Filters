@@ -18,5 +18,7 @@ HOST-SUFFIX,tvbusa.com,TVB
 HOST-SUFFIX,tvbweekly.com,TVB
 HOST-SUFFIX,tvmedia.net.au,TVB
 HOST-SUFFIX,videos-f.jwpsrv.com,TVB
+HOST-SUFFIX,tvbanywherena.com,TVB
+USER-AGENT,TVBAnywhere*,TVB
 USER-AGENT,encoreTVB*,TVB
 USER-AGENT,mytv*,TVB
