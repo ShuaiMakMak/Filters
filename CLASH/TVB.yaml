@@ -1,13 +1,10 @@
 payload:
-#  - DOMAIN,bcbolt446c5271-a.akamaihd.net
-#  - DOMAIN,edge.api.brightcove.com
   - DOMAIN-SUFFIX,bigbigchannel.com.hk
   - DOMAIN-SUFFIX,bigbigshop.com
-#  - DOMAIN-SUFFIX,content.jwplatform.com
   - DOMAIN-SUFFIX,encoretvb.com
   - DOMAIN-SUFFIX,mytvsuper.com
-  - DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net
-  - DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
+  - DOMAIN-,mytvsuperlimited.hb.omtrdc.net
+  - DOMAIN,mytvsuperlimited.sc.omtrdc.net
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-SUFFIX,tvb.com.au
   - DOMAIN-SUFFIX,tvbanywhere.com
@@ -17,6 +14,5 @@ payload:
   - DOMAIN-SUFFIX,tvbusa.com
   - DOMAIN-SUFFIX,tvbweekly.com
   - DOMAIN-SUFFIX,tvmedia.net.au
-#  - DOMAIN-SUFFIX,videos-f.jwpsrv.com
   - DOMAIN-SUFFIX,tvbanywherena.com
   - DOMAIN-SUFFIX,tvbanywhereplusna.com
