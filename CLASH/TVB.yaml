@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX,bigbigshop.com
   - DOMAIN-SUFFIX,encoretvb.com
   - DOMAIN-SUFFIX,mytvsuper.com
-  - DOMAIN-,mytvsuperlimited.hb.omtrdc.net
+  - DOMAIN,mytvsuperlimited.hb.omtrdc.net
   - DOMAIN,mytvsuperlimited.sc.omtrdc.net
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-SUFFIX,tvb.com.au
