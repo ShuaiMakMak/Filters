@@ -1,0 +1,10 @@
+payload:
+  # > PikPak
+  # USER-AGENT,PikPak*
+  - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN,hubciddata.sandai.net
+  - DOMAIN,dlandroid.rcv.sandai.net
+  - DOMAIN,hub5pr.v6.phub.sandai.net
+  - DOMAIN,hub5idx.v6.shub.sandai.net
+  - DOMAIN,hub5pn.wap.sandai.net
+  - DOMAIN,hub5pnc.sandai.net
