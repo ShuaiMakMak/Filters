@@ -1,0 +1,9 @@
+# > PikPak
+// USER-AGENT,PikPak*,PikPak
+HOST-SUFFIX,mypikpak.com,PikPak
+HOST,hubciddata.sandai.net,PikPak
+HOST,dlandroid.rcv.sandai.net,PikPak
+HOST,hub5pr.v6.phub.sandai.net,PikPak
+HOST,hub5idx.v6.shub.sandai.net,PikPak
+HOST,hub5pn.wap.sandai.net,PikPak
+HOST,hub5pnc.sandai.net,PikPak
