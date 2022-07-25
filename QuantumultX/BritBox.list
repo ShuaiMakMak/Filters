@@ -1,0 +1,6 @@
+# > BritBox
+host, vod-dash-ntham-comm-live.akamaized.net, BritBox
+host, vod-dash-ntham-comm.live.cf.md.bbci.co.uk, BritBox
+host, vod-hls-ntham-comm-live.akamaized.net, BritBox
+host, vod-hls-ntham-comm.live.cf.md.bbci.co.uk, BritBox
+host-suffix, britbox.com, BritBox
