@@ -15,7 +15,7 @@ payload:
 #  - DOMAIN,espn-cannonball-cdn.bamgrid.com
 #  - DOMAIN-SUFFIX,cdn.registerdisney.go.com
 
-#  - DOMAIN-SUFFIX,registerdisney.go.com
+  - DOMAIN-SUFFIX,registerdisney.go.com
 
 #  - DOMAIN-SUFFIX,sdk.iad-06.braze.com
 #  - DOMAIN-SUFFIX,api.twdcstories.com
