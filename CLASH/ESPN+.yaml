@@ -1,6 +1,6 @@
 payload:  
   # > ESPN+
-#  - DOMAIN-KEYWORD,espn
+  - DOMAIN-KEYWORD,espn
 #  - DOMAIN-SUFFIX,vision.fn-pz.com
   - DOMAIN-SUFFIX,espn.com
   - DOMAIN-SUFFIX,espncdn.com
