@@ -1,31 +1,27 @@
 payload:  
   # > ESPN+
   - DOMAIN-KEYWORD,espn
-#  - DOMAIN-SUFFIX,vision.fn-pz.com
   - DOMAIN-SUFFIX,espn.com
   - DOMAIN-SUFFIX,espncdn.com
   - DOMAIN-SUFFIX,espn.net
   - DOMAIN-SUFFIX,espnqa.com
   - DOMAIN-SUFFIX,watchespn.com
   
+  - DOMAIN-SUFFIX,registerdisney.go.com
+  
+#  - DOMAIN,assets.adobedtm.com
+#  - DOMAIN,streams.adobeprimetime.com
+#  - DOMAIN,sp.auth.adobe.com
+
 #  - DOMAIN,espn.hb.omtrdc.net
 #  - DOMAIN,pespn.chartbeat.net
 #  - DOMAIN,bam-sdk-configs.bamgrid.com
 #  - DOMAIN,espn.api.edge.bamgrid.com
 #  - DOMAIN,espn-cannonball-cdn.bamgrid.com
-#  - DOMAIN-SUFFIX,cdn.registerdisney.go.com
-
-  - DOMAIN-SUFFIX,registerdisney.go.com
-
 #  - DOMAIN-SUFFIX,sdk.iad-06.braze.com
 #  - DOMAIN-SUFFIX,api.twdcstories.com
 #  - DOMAIN-SUFFIX,cdn.optimizely.com
 #  - DOMAIN-SUFFIX,us.edge.bamgrid.com
-
-#  - DOMAIN,assets.adobedtm.com
-#  - DOMAIN,streams.adobeprimetime.com
-#  - DOMAIN,sp.auth.adobe.com
-
 #  - DOMAIN-SUFFIX,go.com
 #  - DOMAIN-SUFFIX,vncdn.cdnsuehprom.com
 #  - DOMAIN-SUFFIX,ping.chartbeat.net
@@ -37,3 +33,4 @@ payload:
 #  - DOMAIN,dispatcher.is.autonavi.com
 #  - DOMAIN,sportscenter.fan.api.es
 #  - DOMAIN,geolocation.onetrust.com
+#  - DOMAIN-SUFFIX,vision.fn-pz.com
