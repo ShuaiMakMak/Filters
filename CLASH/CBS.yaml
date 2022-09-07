@@ -1,6 +1,6 @@
 payload:
   # > CBS
-  - DOMAIN-SUFFIX,amlg.io
+#  - DOMAIN-SUFFIX,amlg.io
   - DOMAIN-KEYWORD,cbs
   - DOMAIN-SUFFIX,cbscorporation.com
   - DOMAIN-SUFFIX,cbsi.video
