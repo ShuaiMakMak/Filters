@@ -1,6 +1,5 @@
 payload:
   # > CBS
-#  - DOMAIN-SUFFIX,amlg.io
   - DOMAIN-KEYWORD,cbs
   - DOMAIN-SUFFIX,cbscorporation.com
   - DOMAIN-SUFFIX,cbsi.video
@@ -27,4 +26,3 @@ payload:
   - DOMAIN-SUFFIX,viacbs.tech
   - DOMAIN-SUFFIX,smithsonianchannel.com
   - DOMAIN,smithsonian.orchestrator.viacomcbs-tech.com
-#  - DOMAIN,kamd8jpdbeekn8gapkqcupq14.litix.io
