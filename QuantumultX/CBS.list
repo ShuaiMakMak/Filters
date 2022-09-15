@@ -17,9 +17,6 @@ HOST-SUFFIX,cbssvideo.com,CBS
 HOST-SUFFIX,cbstelevisioncity.com,CBS
 HOST-SUFFIX,mtvnservices.com,CBS
 HOST-SUFFIX,paramount.com,CBS
-HOST-KEYWORD,pluto,CBS
-HOST-SUFFIX,showtime.com,CBS
-HOST-SUFFIX,showtimeanytime.com,CBS
 HOST-SUFFIX,viacbs.com,CBS
 HOST-SUFFIX,viacom.com,CBS
 HOST-SUFFIX,viacomcbs.com,CBS
@@ -28,4 +25,4 @@ HOST-SUFFIX,viacomcbs.digital,CBS
 HOST-SUFFIX,viacbs.tech,CBS
 HOST-SUFFIX,smithsonianchannel.com,CBS
 HOST,smithsonian.orchestrator.viacomcbs-tech.com,CBS
-#HOST,kamd8jpdbeekn8gapkqcupq14.litix.io,CBS
+
