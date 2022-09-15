@@ -19,9 +19,6 @@ payload:
   - DOMAIN-SUFFIX,cbstelevisioncity.com
   - DOMAIN-SUFFIX,mtvnservices.com
   - DOMAIN-SUFFIX,paramount.com
-  - DOMAIN-KEYWORD,pluto
-  - DOMAIN-SUFFIX,showtime.com
-  - DOMAIN-SUFFIX,showtimeanytime.com
   - DOMAIN-SUFFIX,viacbs.com
   - DOMAIN-SUFFIX,viacom.com
   - DOMAIN-SUFFIX,viacomcbs.com
