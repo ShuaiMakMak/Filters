@@ -32,7 +32,7 @@ payload:
   - DOMAIN-SUFFIX,universalpicturesinternational.com
   - DOMAIN-SUFFIX,universalstudioshollywood.com
   
-  - DOMAIN,api.auth.adobe.com
+#  - DOMAIN,api.auth.adobe.com
   - DOMAIN,geo.totalcast.tv
   - DOMAIN,geoapi.totalcast.tv
   - DOMAIN,sprtsecureassets.akamaized.net
