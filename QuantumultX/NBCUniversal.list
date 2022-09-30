@@ -31,7 +31,7 @@ DOMAIN-SUFFIX,universalpictures.com,Peacock
 DOMAIN-SUFFIX,universalpicturesinternational.com,Peacock
 DOMAIN-SUFFIX,universalstudioshollywood.com,Peacock
   
-DOMAIN,api.auth.adobe.com,Peacock
+#DOMAIN,api.auth.adobe.com,Peacock
 DOMAIN,geo.totalcast.tv,Peacock
 DOMAIN,geoapi.totalcast.tv,Peacock
 DOMAIN,sprtsecureassets.akamaized.net,Peacock
