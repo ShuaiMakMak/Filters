@@ -19,3 +19,7 @@ DOMAIN,nbadsdmt.akamaized.net,NBA
 DOMAIN,nba-cdn.cloud.easelive.tv,NBA
 DOMAIN,neuclnbavodns.akamaized.net,NBA
 DOMAIN,nba.studio.easelive.tv,NBA
+DOMAIN,nbalpng.akamaized.net,NBA
+DOMAIN,nbaprop.hb-api.omtrdc.net,NBA
+DOMAIN,rest-prod-nba.evergent.com,NBA
+#  - DOMAIN,api2.amplitude.com,NBA
