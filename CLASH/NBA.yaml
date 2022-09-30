@@ -20,3 +20,7 @@ payload:
   - DOMAIN,nba-cdn.cloud.easelive.tv
   - DOMAIN,neuclnbavodns.akamaized.net
   - DOMAIN,nba.studio.easelive.tv
+  - DOMAIN,nbalpng.akamaized.net
+  - DOMAIN,nbaprop.hb-api.omtrdc.net
+  - DOMAIN,rest-prod-nba.evergent.com
+#  - DOMAIN,api2.amplitude.com
