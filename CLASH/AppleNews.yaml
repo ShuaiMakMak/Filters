@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN,gspe1-ssl.ls.apple.com // 必要，但会导致「地图」使用「TOMTOM」版本数据
+  - DOMAIN,apple.comscoreresearch.com
+  - DOMAIN,news-assets.apple.com
+  - DOMAIN,news-client-search.apple.com
+  - DOMAIN,news-client.apple.com
+  - DOMAIN,news-edge.apple.com
+  - DOMAIN,news-events.apple.com
+  - DOMAIN-SUFFIX,apple.news
+  - PROCESS-NAME,news
+#  - DOMAIN,gateway.icloud.com
