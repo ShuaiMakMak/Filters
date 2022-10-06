@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN,gspe1-ssl.ls.apple.com // 必要，但会导致「地图」使用「TOMTOM」版本数据
+  - DOMAIN,gspe1-ssl.ls.apple.com
   - DOMAIN,apple.comscoreresearch.com
   - DOMAIN,news-assets.apple.com
   - DOMAIN,news-client-search.apple.com
