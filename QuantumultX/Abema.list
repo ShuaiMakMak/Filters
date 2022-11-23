@@ -1,0 +1,12 @@
+# > AbemaTV
+USER-AGENT,AbemaTV*,AbemaTV
+HOST-SUFFIX,abema.io,AbemaTV
+HOST-SUFFIX,abema.tv,AbemaTV
+HOST-SUFFIX,ameba.jp,AbemaTV
+HOST-SUFFIX,abema-tv.com,AbemaTV
+HOST-SUFFIX,hayabusa.io,AbemaTV
+HOST-KEYWORD,abematv.akamaized.net,AbemaTV
+HOST,abematv.akamaized.net
+HOST,ds-vod-abematv.akamaized.net
+HOST,linear-abematv.akamaized.net
+HOST,ds-linear-abematv.akamaized.net
