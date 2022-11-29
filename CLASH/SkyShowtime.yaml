@@ -1,7 +1,8 @@
-# > SkyShowtime
+payload:
+  # > Peacock
+  # > SkyShowtime
   - PROCESS-NAME,com.skyshowtime.skyshowtime.google
   - DOMAIN,skyshowtimeuk.data.adobedc.net
   - DOMAIN-SUFFIX,skyshowtime.com
   - DOMAIN-SUFFIX,cssott.com
   - DOMAIN,4ac1dd56e493354be504f063e4ae3440a13c6776.cws.conviva.com
-#  - DOMAIN-KEYWORD,skyshowtime
