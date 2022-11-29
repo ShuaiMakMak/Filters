@@ -6,7 +6,7 @@ HOST-SUFFIX,ameba.jp,AbemaTV
 HOST-SUFFIX,abema-tv.com,AbemaTV
 HOST-SUFFIX,hayabusa.io,AbemaTV
 HOST-KEYWORD,abematv.akamaized.net,AbemaTV
-HOST,abematv.akamaized.net
-HOST,ds-vod-abematv.akamaized.net
-HOST,linear-abematv.akamaized.net
-HOST,ds-linear-abematv.akamaized.net
+HOST,abematv.akamaized.net,AbemaTV
+HOST,ds-vod-abematv.akamaized.net,AbemaTV
+HOST,linear-abematv.akamaized.net,AbemaTV
+HOST,ds-linear-abematv.akamaized.net,AbemaTV
