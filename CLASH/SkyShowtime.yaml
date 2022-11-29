@@ -1,5 +1,4 @@
 payload:
-  # > Peacock
   # > SkyShowtime
   - PROCESS-NAME,com.skyshowtime.skyshowtime.google
   - DOMAIN,skyshowtimeuk.data.adobedc.net
