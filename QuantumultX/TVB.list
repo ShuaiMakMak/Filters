@@ -1,20 +1,15 @@
 # > TVB
-HOST-SUFFIX,bigbigchannel.com.hk,TVB
-HOST-SUFFIX,bigbigshop.com,TVB
-HOST-SUFFIX,encoretvb.com,TVB
 HOST-SUFFIX,mytvsuper.com,TVB
 HOST,mytvsuperlimited.hb.omtrdc.net,TVB
 HOST,mytvsuperlimited.sc.omtrdc.net,TVB
 HOST-SUFFIX,tvb.com,TVB
 HOST-SUFFIX,tvb.com.au,TVB
+HOST-SUFFIX,tvmedia.net.au,TVB
 HOST-SUFFIX,tvbanywhere.com,TVB
 HOST-SUFFIX,tvbanywhere.com.sg,TVB
-HOST-SUFFIX,tvbc.com.cn,TVB
-HOST-SUFFIX,tvbeventpower.com.hk,TVB
-HOST-SUFFIX,tvbusa.com,TVB
 HOST-SUFFIX,tvbweekly.com,TVB
-HOST-SUFFIX,tvmedia.net.au,TVB
-HOST-SUFFIX,tvbaw.com,TVB
-USER-AGENT,TVBAnywhere*,TVB
-USER-AGENT,encoreTVB*,TVB
-USER-AGENT,mytv*,TVB
+  - DOMAIN,int-fp.tvb.com
+  - DOMAIN,api.tvb.com
+  - DOMAIN,img.tvb.com
+  - DOMAIN,id-api.tvb.com
+  - DOMAIN,youbora.tvb.com
